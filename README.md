@@ -8,7 +8,7 @@ This is a simple public API developed as part of the HNG12 Stage 0 backend task.
 - The GitHub URL of this project's codebase.
 
 ## 🚀 Live Demo
-**[API Endpoint](<your-deployed-api-url>)**
+**[API Endpoint](https://hng-xii-task0.onrender.com)**
 
 ## ⚙️ Technology Stack
 - **Programming Language:** JavaScript/Node.js
@@ -27,7 +27,7 @@ This is a simple public API developed as part of the HNG12 Stage 0 backend task.
 
 ### **GET /**
 - **Description:** Retrieves basic information in JSON format.
-- **Endpoint:** `GET <your-deployed-api-url>`
+- **Endpoint:** `GET https://hng-xii-task0.onrender.com`
 - **Response Format:** `application/json`
 
 #### ✅ Sample Response (200 OK)
